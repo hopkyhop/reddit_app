@@ -1,0 +1,22 @@
+.content {
+    overflow-y: auto;
+    margin-bottom: 50px;
+}  
+.title {
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.image {
+    object-fit: cover;
+    width: 100%;
+}
+.header {
+    display: flex;
+    margin-bottom: 25px;
+}
+.header_left {
+    margin-left: 20px;
+}

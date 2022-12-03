@@ -1,0 +1,25 @@
+.sideBar {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .commentBar {
+    display: block;
+    background-color: var(--gray99);
+    height: 100%;
+    width: 2px;
+  }
+  
+  .commentBarWrapper {
+    height: 100%; 
+    display: flex; 
+    justify-content: center;
+  }
+
+.icons {
+  display: flex;
+  flex-direction: column;
+}
+.break {
+  height: 5px;
+}

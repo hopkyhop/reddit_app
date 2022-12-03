@@ -1,0 +1,19 @@
+@media all and (min-width: 1024px) {
+    .cardsList {
+      padding: 40px 0;
+    }
+  }
+
+.btnMore {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background: #CC6633;
+  border-radius: 0px 0px 3px 0px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #FFFFFF;
+}

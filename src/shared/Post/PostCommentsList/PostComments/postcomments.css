@@ -1,0 +1,10 @@
+.commentChild{
+    display: flex;
+    flex-direction: row;
+}
+.commentChild:not(:last-child) {
+    margin-bottom: 20px;
+}
+.content {
+    width: 100%;
+}
