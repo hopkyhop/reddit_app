@@ -1,3 +1,3 @@
 It is Russian Reddit mirror
 
-This application uses React+Redux+TypeScript
+This app uses React+Redux+TypeScript
